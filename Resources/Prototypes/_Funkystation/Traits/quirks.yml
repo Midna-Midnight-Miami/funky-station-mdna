@@ -127,7 +127,7 @@
 - type: trait
   id: Resourceful
   name: trait-resourceful-name
-  description: trait-table-hider-desc
+  description: trait-table-resourceful-desc
   category: Quirks
   cost: 8
   components:
